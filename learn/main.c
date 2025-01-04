@@ -4,7 +4,7 @@ int main() {
     long n, a, b, c;
     scanf("%ld", &n);
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++) { // setting
         scanf("%ld %ld %ld", &a, &b, &c);
 
         if (a == 1) {
